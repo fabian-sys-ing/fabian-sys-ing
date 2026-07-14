@@ -1,16 +1,24 @@
-## Hi there 👋
+### ¡Hola! 👋 Soy Fabian Perez Paez
 
-<!--
-**fabian-sys-ing/fabian-sys-ing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de Ingeniería de Sistemas en Colombia. Me apasiona la tecnología y estoy construyendo mis habilidades para crear soluciones web y gestionar datos.
 
-Here are some ideas to get you started:
+🚀 *En qué estoy enfocado actualmente:*
+- Desarrollo Frontend: HTML5, CSS3
+- Bases de Datos: SQL
+- Programacion y Scripts: Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+️ *Tecnologías que manejo:*
+- HTML / CSS
+- Python
+- Bases de Datos (SQL)
+- Git / GitHub
+
+ *Actualmente aprendiendo:*
+- JavaScript
+- Backend y conexión web-bases de datos
+
+📫 *¡Conectemos!*
+- Correo: fabianperezpaez305@gmail.com
+
+---
+💡 "Construyendo mi camino en el mundo tech, un commit a la vez."
