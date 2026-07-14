@@ -1,19 +1,19 @@
 ### ¡Hola! 👋 Soy Fabian Perez Paez
 
-Soy estudiante de Ingeniería de Sistemas en Colombia. Me apasiona la tecnología y estoy construyendo mis habilidades para crear soluciones web y gestionar datos.
+Soy estudiante de Ingeniería de Sistemas en Colombia. Me apasiona la tecnología y estoy construyendo mis habilidades para crear soluciones web, automatizar procesos y gestionar datos.
 
 🚀 *En qué estoy enfocado actualmente:*
 - Desarrollo Frontend: HTML5, CSS3
 - Bases de Datos: SQL
-- Programacion y Scripts: Python
+- Programación y Scripts: Python
 
-️ *Tecnologías que manejo:*
+🛠️ *Tecnologías que manejo:*
 - HTML / CSS
 - Python
 - Bases de Datos (SQL)
 - Git / GitHub
 
- *Actualmente aprendiendo:*
+🌱 *Actualmente aprendiendo:*
 - JavaScript
 - Backend y conexión web-bases de datos
 
